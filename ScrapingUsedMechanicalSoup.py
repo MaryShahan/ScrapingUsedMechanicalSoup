@@ -18,7 +18,7 @@ browser.select_form()
 browser.get_current_form().print_summary()
 
 # search for a term
-search_term = 'dog'
+search_term = 'dogs'
 browser["q"] = search_term
 
 # submit/"click" search
@@ -43,7 +43,6 @@ image_source = []
 for image in all_images:
     image = image.get('src')
     image_source.append(image)
-print(image_source)
 print(image_source)
 
 #getting rid of all the bad links

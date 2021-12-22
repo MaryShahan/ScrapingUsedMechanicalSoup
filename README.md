@@ -9,4 +9,4 @@ using mechanicalsoup, os and wget modules
 I'm using Google colab for entire coding until "Create a new local directory on our computer" then switch to Pycharm to run all
 
 Mechanical Soup Documentation:
-https://mechanicalsoup.readthedocs.io...
+https://mechanicalsoup.readthedocs.io/en/stable/
